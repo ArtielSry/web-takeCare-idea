@@ -482,7 +482,7 @@ section {
 		justify-content: space-evenly;
 	}
 	h1, h2, h3, p {
-		width: 250px;
+		width: 200px;
 		font-size: 12px !important;
 	}
 	.divPortada {
