@@ -482,7 +482,7 @@ section {
 		justify-content: space-evenly;
 	}
 	h1, h2, h3, p {
-		width: 200px;
+		width: 250px;
 		font-size: 14px !important;
 	}
 	.divPortada {
@@ -603,7 +603,7 @@ section {
 		font-size: 14px;
 	}
 	.formulario__input-error {
-		font-size: 10px !important;
+		font-size: 12px !important;
 	}
 	.formulario__input-error-activo{
 		width: 100%;
