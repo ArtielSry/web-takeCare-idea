@@ -615,4 +615,8 @@ section {
 	.formulario__input-error-activo{
 		width: 100%;
 	}
+	.language{
+		top: 13px;
+		right: -39px;
+	}
 }
