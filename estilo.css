@@ -74,8 +74,9 @@ strong {
 .language {
    	align-items: center;
 	position: absolute;
-	right: 20px;
+	right: 20px !important;
 	text-align: center;
+	font-weight: 900;
 }
 /*-------------------------------*/
 
