@@ -617,7 +617,6 @@ section {
 		width: 100%;
 	}
 	.language{
-		top: 13px;
-		right: -39px;
+		visibility: hidden;
 	}
 }
